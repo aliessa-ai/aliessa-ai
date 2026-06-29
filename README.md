@@ -1,41 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**aliessa-ai/aliessa-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Telecommunications Engineer passionate about Artificial Intelligence, Machine Learning, and Data Analytics.
+- 🛠️ Currently developing an AI-based traffic congestion prediction framework using Deep Learning (MLP, LSTM, Conv1D).
+- 📚 Preparing for the AWS Machine Learning Certification.
+- 📊 Advancing my skills through the Udacity Data Analyst Nanodegree.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋
-
-# أهلاً بك في ملفي الشخصي! 👋
-
-- 🎓 مهندس اتصالات شغوف بالذكاء الاصطناعي، تعلم الآلة، وتحليل البيانات.
-- 🛠️ أعمل حالياً على تطوير نموذج ذكي للتنبؤ بالازدحام المروري في المدن باستخدام شبكات التعلم العميق (LSTM, Conv1D, MLP).
-- 📚 أستعد حالياً للحصول على شهادة AWS Machine Learning Certification.
-- 📊 أقوم بتطوير مهاراتي في تحليل البيانات عبر برنامج الـ Data Analyst Nanodegree من Udacity.
-
-## ⚡ المهارات الأساسية | Tech Stack
+## ⚡ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-## ☁️ الحوسبة السحابية والأدوات | Cloud & Tools
+## ☁️ Cloud & Tools
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 إحصائيات غيت هوب | GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliessa-ai&show_icons=true&theme=radical)
